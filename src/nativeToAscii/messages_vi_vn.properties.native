@@ -1,0 +1,79 @@
+Main.Title=Thị trấn thú cưng
+
+Login.Title=Đăng nhập
+
+Map.Title=Bản đồ
+
+SignUp.Title=Đăng ký
+SignUp.Name=Tên đăng nhập
+SignUp.PassWord=Mật khẩu
+SignUp.ReType=Nhập lại mật khẩu
+SignUp.Header1=Thông tin tài khoản
+SignUp.Header1=Thông tin cá nhân
+SignUp.Adress=Địa chỉ
+SignUp.Sex=Giới tính
+SignUp.Female=Nữ
+
+Home.Title=Nhà riêng
+
+HomeDialog.Password=Mật khẩu hiện tại:
+HomeDialog.NewPassword=Mật khẩu mới:
+HomeDialog.RetypeNewPassword=Nhập lại mật khẩu mới:
+HomeDialog.Title=Thay đổi mật khẩu
+
+PetCenter.Money=Số tiền hiện có
+PetCenter.Buy=Mua mới
+PetCenter.Sell=Bán lại
+PetCenter.Descrip=Giới thiệu
+PetCenter.Levels=Số Level
+PetCenter.Price=Giá
+PetCenter.CurrentLevel=Level hiện tại
+PetCenter.Image=Hình ảnh
+
+SignUpDialog.Title=Đăng ký không thành công
+SignUpDialog.Username2=Tên đăng nhập này đã có người dùng.
+SignUpDialog.Username1=Tên đăng nhập không được để trống.
+SignUpDialog.Username3=Tên đăng nhập phải nằm trong khoảng từ 6 đến 32 ký tự.
+SignUpDialog.Username4=Tên đăng nhập không được chứa dấu cách.
+SignUpDialog.Password1=Mật khẩu phải nằm trong khoảng từ 6 đến 16 ký tự.
+SignUpDialog.Password2=Mật khẩu không được chứa dấu cách.
+SignUpDialog.Password3=Mật khẩu và mật khẩu gõ lại phải trùng nhau.
+
+Setting.Title=Cài đặt
+Inventory.Title=Túi cá nhân
+
+SplashScreen.Text=Đang tải, xin hãy đợi...
+
+PetHouse.None1=Bạn chưa có partner nào cả.
+PetHouse.None2=Đến Partner Center đón ngay 1 bé nào!
+PetHouse.None0=Thông báo
+
+HomeDialog.Error=Thông báo
+HomeDialog.Error1=Sai mật khẩu.
+HomeDialog.Error2=Mật khẩu mới phải nằm trong khoảng từ 6 đến 16 ký tự.
+HomeDialog.Error3=Mật khẩu mới không được chứa dấu cách.
+HomeDialog.Error4=Mật khẩu và mật khẩu gõ lại phải trùng nhau.
+
+PetCenterBuy.Confirm=Bạn chắc chắn muốn mua partner này chứ?
+PetCenterBuy.ConfirmTitle=Xác nhận
+PetCenterBuy.Sucess=Mua mới thành công!
+PetCenterBuy.Fail=Bạn không có đủ tiền để mua partner này.
+
+PetCenterBuy.Confirm=Bạn chắc chắn muốn bán partner này chứ?
+PetCenterBuy.ConfirmTitle=Xác nhận
+PetCenterBuy.Sucess=Bán lại thành công!
+
+PetHouse.Notice=Bạn không còn hộp sữa nào. Đến ngay cửa hàng để mua nhé!
+PetHouse.Error=Tên Partner không được bỏ trống hay chỉ chứa dấu cách.
+PetHouse.DialogTitle=Đổi tên partner
+PetHouse.DialogLabel=Tên mới:
+
+Shop.Error=Không có đủ tiền để mua vật phẩm này.
+
+GameCenter.NoEnergy=Không đủ Energy để chơi game này.
+
+Other.Name=Tên đăng nhập
+Other.Yes=Có
+Other.No=Không
+Other.Avaible=Tên đăng nhập này không đúng.
+Other.Popup=Bạn có muốn đổi trạng thái của thú cưng này không? (Từ "Đã bỏ đi" về bình thường và ngược lại).
